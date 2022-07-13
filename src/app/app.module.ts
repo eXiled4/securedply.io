@@ -23,3 +23,5 @@ export class AppModule { }
 // canLoad - whether a route can be loaded to browser or not
 // Resolve - check dynamic data and other read-only data
 
+// To add module with routing AND assoc with the parent app - CLI command
+// ng g module NAME --route 
