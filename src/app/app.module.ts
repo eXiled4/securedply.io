@@ -25,3 +25,6 @@ export class AppModule { }
 
 // To add module with routing AND assoc with the parent app - CLI command
 // ng g module NAME --route 
+
+//ng test - runs karma testing engine and test runner engine jasmine
+// 
