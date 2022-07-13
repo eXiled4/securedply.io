@@ -28,3 +28,15 @@ export class AppModule { }
 
 //ng test - runs karma testing engine and test runner engine jasmine
 // 
+
+
+//DEPLOYING ANGLAR APPLICATION
+// npm run build - to build and run app
+// Creates a dist(distribution) folder where it shows all the files bundled to create this app
+
+// now ensure nginx is installed
+// CLI command to install is
+// sudo apt install nginx
+
+// CLI command to ensure nginx is running:
+// sudo systemctl status nginx
